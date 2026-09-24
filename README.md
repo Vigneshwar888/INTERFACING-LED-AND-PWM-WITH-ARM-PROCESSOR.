@@ -17,7 +17,9 @@ To control the brightness of an LED using a Potentiometer and PWM (Pulse Width M
 - Jumper Wires
 
 # Circuit Diagram
-<img width="1420" height="606" alt="Screenshot 2026-09-23 095420" src="https://github.com/user-attachments/assets/8f230a5c-985f-4ab1-8723-047ad3d9d5e3" />
+
+<img width="1403" height="666" alt="Screenshot 2026-09-23 112956" src="https://github.com/user-attachments/assets/e949a3be-6457-458c-aea5-a6ffd778b7eb" />
+
 
 # Procedure
 
@@ -82,7 +84,9 @@ void loop() {
 }
 ```
 # Observation
-<img width="997" height="1600" alt="WhatsApp Image 2026-09-23 at 12 31 12" src="https://github.com/user-attachments/assets/f23d044e-4326-4b9c-9c17-dc2e52ffeb90" />
+
+<img width="1498" height="1600" alt="WhatsApp Image 2026-09-24 at 10 01 52 AM" src="https://github.com/user-attachments/assets/594f4896-6057-4c45-93b6-833b418a771a" />
+
 
 # Result
 
