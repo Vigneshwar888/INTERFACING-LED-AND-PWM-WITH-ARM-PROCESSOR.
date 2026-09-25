@@ -85,7 +85,7 @@ void loop() {
 ```
 # Observation
 
-<img width="1498" height="1600" alt="WhatsApp Image 2026-09-24 at 10 01 52 AM" src="https://github.com/user-attachments/assets/594f4896-6057-4c45-93b6-833b418a771a" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/d63f95e7-9af2-4a1f-b1d6-e257a157279c" />
 
 
 # Result
